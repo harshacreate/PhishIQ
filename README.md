@@ -4,6 +4,8 @@
 
 PhishIQ presents realistic email and URL scenarios and asks you to judge each as phishing or legitimate, giving instant, plain-English explanations of the red flags and a final awareness score.
 
+The scenarios are educational examples; real messages may require additional context and sender verification.
+
 ## Highlights
 - **Pure front-end** — HTML, CSS and vanilla JavaScript. No backend, no build step, no Python.
 - **Private by design** — everything runs locally in your browser; nothing is uploaded or sent to a server.
